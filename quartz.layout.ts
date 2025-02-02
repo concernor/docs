@@ -11,7 +11,6 @@ export const sharedPageComponents: SharedLayout = {
       website: "https://concernor.eth.limo/",
       X: "https://x.com/concernor",
       farcaster: "https://warpcast.com/concernor.eth",
-      discord: "https://discord.gg/JBdqYQqwZs",
       github: "https://github.com/concernor",
     },
   }),

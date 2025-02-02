@@ -10,13 +10,11 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Docs",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "docs.concernor.eth.limo",
+    baseUrl: "concernor.github.io/docs/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
