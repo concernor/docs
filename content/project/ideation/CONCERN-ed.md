@@ -1,5 +1,6 @@
 ---
-aliases:
+aliases: 
+dg-publish: true
 ---
 up:: [[00 - index|idea tank]]
 

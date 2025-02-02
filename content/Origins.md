@@ -1,7 +1,8 @@
 ---
 up: "[[index]]"
+dg-publish: true
 ---
-up:: [[index|Home]]
+up:: [[index]]
 
 
 ### How it started

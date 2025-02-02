@@ -1,20 +1,19 @@
 ---
 up: "[[index]]"
+dg-publish: true
 ---
-up:: [[index|Home]]
+up:: [[index]]
 
 
 > see [[change-log]] for the past, or  [[00 - index|idea tank]] for the future. what you have here is **now and very near future.**
 
 ## NOW
 
-- [/] Documentation
+- [x] Documentation
 	- [x] Create a new concentrator docs repo on github
-	- [x] Deploy the docs under [concernor.github.io](https://concernor.github.io/docs)
-	- [x] Automate the deploy process?
-	- [x] Document the deploy & update process
-
-- [ ] [[tokenomics]]
+	- [x] Deploy the docs under [concernor.github.io/docs/](https://concernor.github.io/docs/)
+	- [?] Automate the deploy process?
+- [ ] Ticker is [[$CONCERN]]
 ## Near Future
 
-- [?] [[Proof of Concern|POC]] NFT
+- [?] [[Proof of Concern|POC]]

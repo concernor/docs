@@ -1,17 +1,17 @@
 ---
 title: Overview
-aliases:
-  - Home
+dg-home: true
+dg-publish: true
 ---
-![[official-links#^b34bcc]]
+
+![[Official Links#^0f14db]]
 
 
-Start from the [[origins]] to understand where the inspiration came from. Then go through the: 
+
+Start from the [[Origins]] to understand where the inspiration came from. Then go through the: 
 - [[roadmap]] for the current plans
 - [[change-log]] to see what has been done so far
 - [[00 - index|idea tank]] to see into the possibilities of the future.
-
-if you would like to contribute or see anything you can improve, feel free to read through [[overview|Docs Overview]] and start doing exactly that.
 
 ---
 

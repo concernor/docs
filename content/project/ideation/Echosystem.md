@@ -1,11 +1,18 @@
 ---
 aliases:
   - Echo System
+dg-publish: true
 ---
 up:: [[00 - index|idea tank]]
 
+see:
+- [[Proof of Concern|POC]]
+- [[CONCERN]]
+- [[CONCERN-ed]]
+- [[CONCERNed Media]]
 
-the idea would be to create a way to echo the concerns through the accounts belonging to concern on different platforms. Thought to be similar to [ANON Cast](https://x.com/anoncast_) but not anonymous and way more affordable.
+
+Still on the ideation phase. I do not have any time or resources to buidl this yet but the idea would be to create a way to echo the concerns through the accounts belonging to concern on different platforms. Thought to be similar to [ANON Cast](https://x.com/anoncast_) but not anonymous and way more affordable.
 
 - User pays [[CONCERN|$CONCERN]] to echo their concerns.
 - [[CONCERN|$CONCERN]] is returned to treasury to be used in ecosystem fund.

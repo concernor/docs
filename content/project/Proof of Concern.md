@@ -1,13 +1,10 @@
 ---
 aliases:
   - POC
+dg-publish: true
 ---
 up:: [[roadmap]]
 
+Proof of concern (POC) is still in an ideation phase but thought to be as a fractionalized NFT that shares the revenue/trading fees with the orgs/groups of people that are also working on alleviating your concerns.
 
-Proof of concern (**POC**) is the initial NFT offering to secure the funding for the LP once the meme coin launched. 
-
-There will be total of 1559 POC's. In order to mint a POC NFT you need to write your concerns on the blockchain. Those will be the original concerns and the owners of the POC's will be called the [[inner circle]] as they are the very early supporters of this project.
-
-Once the [[CONCERN|$CONCERN]] token is launched. A proportion (tbd.) of the tokens will be put on a vesting contract and airdropped to the hodlers.
-
+We will look into what possibilities there are and how to structure it properly.

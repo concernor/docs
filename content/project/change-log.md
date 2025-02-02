@@ -1,5 +1,9 @@
+---
+dg-publish: true
+---
+
 up:: [[roadmap]]
 
 
 - [x] Setup website under [concernor.eth.limo](https://concernor.eth.limo)
-- [x] Secure the [[official-links]]
+- [x] Secure the [[Official Links]]
